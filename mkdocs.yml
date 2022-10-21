@@ -56,11 +56,5 @@ extra:
   # add links in bottom right
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/klust
-      name: Kurt Lust on GitHub
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/kurtlust
-      name: Kurt Lust onb LinkedIn
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UC3szWMS7glcfWsEZTZXQ1oQ
-      name: Work-related YouTube channel of Kurt Lust
+      link: https://github.com/hpcuantwerpen
+      name: HPC-UAntwerpen on GitHub
